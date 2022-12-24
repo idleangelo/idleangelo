@@ -1,11 +1,11 @@
-#In business or technical terms describe your understanding of continuous integration and continuous delivery (CI/CD)?
+# In business or technical terms describe your understanding of continuous integration and continuous delivery (CI/CD)?
 
 
 Continuous integration is coding philosophy and set of procedures that encourages development teams to make tiny code changes and check them into a version control repository on a regular basis. Teams need a standard method to integrate and validate changes as the majority of modern applications require writing code utilising a variety of platforms and tools. A system of automatic building, packaging, and testing of their applications is established via continuous integration. Developers are more likely to commit code changes when there is an uniform integration procedure in place, which improves cooperation and code quality.[^1]
 
 Continuous delivery automates the delivery of applications to a subset of environments, such as development, testing, and production environments. It is a software engineering approach in which teams keep producing valuable software in short cycles and ensure that the software can be reliably released at any time[^2]. Companies that have adopted continuous delivery have claimed significant improvements in customer happiness, product quality, release consistency, productivity, efficiency, and the flexibility to rapidly experiment to produce the suitable product. Numerous businesses have adopted continuous delivery because of these benefits.
 
-#What are some tools that are used for this and why are they used?
+# What are some tools that are used for this and why are they used?
 
 
 A reasonable portion of the testing and delivery process needs to be automated. To do this, we should develop CI/CD pipelines for your projects, as well as test suites to identify defects before users see the programme and scripts that carry out the pipeline's processes.

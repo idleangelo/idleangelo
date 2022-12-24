@@ -11,7 +11,7 @@ Continuous delivery automates the delivery of applications to a subset of enviro
 A reasonable portion of the testing and delivery process needs to be automated. To do this, we should develop CI/CD pipelines for your projects, as well as test suites to identify defects before users see the programme and scripts that carry out the pipeline's processes.
 The environment-specific parameters that must be bundled with each delivery are assisted by CI/CD technologies. Then, any necessary service calls to web servers, databases, and other services that require restarting are made via CI/CD automation. In addition, it can carry out additional actions after deployment.
 
-Continuous testing is also necessary for CI/CD because the end goal is to produce high-quality code and apps. Continuous testing involves the CI/CD pipeline running a number of automated regression, performance, and other tests.
+Continuous testing is also necessary for CI/CD because the end goal is to produce high-quality code and apps. Continuous testing involves the CI/CD pipeline running a number of automated regression, performance, and other tests. [^1]
 
 
 ---

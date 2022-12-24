@@ -14,7 +14,6 @@ The environment-specific parameters that must be bundled with each delivery are 
 Continuous testing is also necessary for CI/CD because the end goal is to produce high-quality code and apps. Continuous testing involves the CI/CD pipeline running a number of automated regression, performance, and other tests.
 
 
-
 ---
 
 [^1]: [What is CI/CD? Continuous integration and continuous delivery explained](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
